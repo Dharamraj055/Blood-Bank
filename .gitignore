@@ -1,0 +1,21 @@
+# Node.js
+backend/node_modules/
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Android & Gradle
+BloodRadar/.gradle/
+BloodRadar/build/
+BloodRadar/app/build/
+BloodRadar/local.properties
+BloodRadar/.idea/
+BloodRadar/*.iml
+BloodRadar/app/*.iml
+
+# System & Temporary
+.DS_Store
+Thumbs.db
+*.log
+BloodRadar_running.png
+screen.png
+
